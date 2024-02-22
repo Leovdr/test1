@@ -1,4 +1,1 @@
-<<<<<<< HEAD
 aaaaaaaaaaa
-=======
->>>>>>> parent of 85cd509 (menambahkan teks)
